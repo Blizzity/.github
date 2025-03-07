@@ -1,3 +1,5 @@
-📊 **Blizzity**
-
-[![GitHub Followers](https://img.shields.io/github/followers/blizzity?style=social)](https://github.com/blizzity)[![GitHub Stars](https://img.shields.io/github/stars/blizzity?style=social)](https://github.com/blizzity)
+![Website](https://img.shields.io/website?url=blizzity.de)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/blizzity/blizzity-releases/total)
+[![GitHub Followers](https://img.shields.io/github/followers/blizzity?style=social)](https://github.com/blizzity)
+[![GitHub Stars](https://img.shields.io/github/stars/blizzity?style=social)](https://github.com/blizzity)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blizzity)](https://github.com/blizzity)
